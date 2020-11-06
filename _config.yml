@@ -31,15 +31,15 @@ author: Montana Bureau of Mines and Geology
 # Organization branding
 organization-name: "Montana Bureau of Mines and Geology"
 organization-link: https://www.mbmg.mtech.edu/main.asp
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-banner:
+organization-logo-nav: 
 
 ##########
 # COLLECTION SETTINGS
 #
 # provide location of the digital objects folder,
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
-objects: /objects 
+objects:
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: butte-stope-books-metadata
 # page generation settings 

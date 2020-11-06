@@ -28,7 +28,7 @@ featured-locations-max: # set number of top locations to display if auto generat
 #
 # Featured image on About page - if left blank, CB will use image featured on the home page
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-about-featured-image: https://cdil.lib.uidaho.edu/images/palouse_sm.jpg
+about-featured-image:
 
 ##########
 # BROWSE PAGE
@@ -80,7 +80,7 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
+metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 

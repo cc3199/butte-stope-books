@@ -65,9 +65,9 @@ longitude: -112.535186 #to determine center of map
 zoom-level: 13 # zoom level for map 
 map-base: Esri_WorldStreetMap # set default base map, choose from: Esri_WorldStreetMap, Esri_NatGeoWorldMap, Esri_WorldImagery
 map-search: # not suggested with large collections
-map-search-fuzziness: 0.5 # fuzzy search range from 1 = anything to 0 = exact match only
+map-search-fuzziness: 0 # fuzzy search range from 1 = anything to 0 = exact match only
 map-cluster: true # suggested for large collection or with many items in same location
-map-cluster-radius: 80 # size of clusters, from ~ 10 to 80
+map-cluster-radius: 10 # size of clusters, from ~ 10 to 80
 
 ##########
 # TIMELINE PAGE

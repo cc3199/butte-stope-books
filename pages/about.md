@@ -8,8 +8,6 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
-
 ## About the Butte Stope Book Collection
 
 The mines in Butte, Montana, rich in base- and precious- metals, began to take shape in the 1870’s and continued through 1982 when the underground mining was shut down. Mapping and surveying the geology, mineralogy, and mine workings of 100+ mines became the responsibility of the ACM Geology Department. The underground mine openings are generally referred to as stopes; detailed maps of the stopes were recorded from field books to a master Stope Book for each mine. This collection of books was the responsibility of the Anaconda Mining Company (founded in 1881) and is a hand drawn representation of the tens of thousands of miles of underground workings that make up what is known worldwide as the “richest hill on earth”.

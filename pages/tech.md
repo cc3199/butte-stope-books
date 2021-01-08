@@ -46,5 +46,15 @@ The maps include many symbols in the illustrations to indicate many different ty
         </a>
 </div>
 
+The stope maps are color-coded to indicate a year that particular working was made.
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+                    <a href="{{ '/objects/Stope_Book_Legend_2.jpg' | absolute_url }}" class="col-md-12" target="_blank" data-toggle="tooltip" title="Click Me">
+                    <img class="card-image-top img-fluid" src="{{ '/objects/Stope_Book_Colors.jpg' | absolute_url }}">    
+        </a>
+</div>
+
 
 {% include credits.html %}

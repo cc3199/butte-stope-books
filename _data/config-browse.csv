@@ -1,4 +1,5 @@
 field,display_name,btn,hidden,sort_name
 subject,Mine(s),true,,Mine
 location,Book Number,true,,Book Number
-objectid,Object ID,,,Object ID
+sill number,Sill Number,,,Sill Number
+objectid, Object ID,,true,,
